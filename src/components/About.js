@@ -9,7 +9,7 @@ const About = () => {
                 <li><Link to="about">About</Link></li>
             </ul>
             <h1>About</h1>
-            <p>This is a sample react router program</p>
+            This is a sample React Router program.
         </div>
 
     )
